@@ -5,7 +5,7 @@ info:
   description: Complete API documentation for portfolio backend
 
 servers:
-  - url: http://localhost:5000
+  - url: http://localhost:${PORT}
 
 components:
   securitySchemes:
